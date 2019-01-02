@@ -8,3 +8,11 @@
 
 **Link to work:** https://da-bootcamp.firebaseapp.com/?course=start_programming_dart
 
+### Day 2: January 2, 2019
+
+**Today's Progress**: Worked on Compound Assignment Operators and Strings.
+
+**Thoughts:** So far, so good. Feeling confident.
+
+**Link to work:**
+
