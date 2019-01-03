@@ -16,3 +16,9 @@
 
 **Link to work:**
 
+### Day 3: January 3, 2019
+
+**Today's Progress**: Worked on booleans and if/else statements.
+
+**Thoughts:** It's getting deep.
+
