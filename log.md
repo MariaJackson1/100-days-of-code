@@ -22,3 +22,8 @@
 
 **Thoughts:** It's getting deep.
 
+### Day 4: January 4, 2019
+
+**Today's Progress:** Worked on Switch statements.
+
+**Thoughts:** Easier to read than to write. You can do some pretty interesting things.
