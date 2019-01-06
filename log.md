@@ -27,3 +27,9 @@
 **Today's Progress:** Worked on Switch statements.
 
 **Thoughts:** Easier to read than to write. You can do some pretty interesting things.
+
+### Day 5: January 5, 2019
+
+**Today's Progress:** Worked on While, Do–While and For Loops.
+
+**Thoughts:** How will I know which one to use and when? 
