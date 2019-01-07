@@ -39,3 +39,9 @@
 **Today's Progress:** Practiced writing functions.
 
 **Thought's:** Pretty cool the things you can do.
+
+### Day 7, January 7, 2019
+
+**Today's Progress:** Worked on positional, [optional], and {named optional} parameters.
+
+**Thought:** A lot to wrap my head around.
