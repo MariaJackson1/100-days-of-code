@@ -33,3 +33,9 @@
 **Today's Progress:** Worked on While, Do–While and For Loops.
 
 **Thoughts:** How will I know which one to use and when? 
+
+### Day 6: January 6, 2019
+
+**Today's Progress:** Practiced writing functions.
+
+**Thought's:** Pretty cool the things you can do.
