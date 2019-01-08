@@ -45,3 +45,9 @@
 **Today's Progress:** Worked on positional, [optional], and {named optional} parameters.
 
 **Thought:** A lot to wrap my head around.
+
+### Day 8: January 8, 2019
+
+**Today's Progress:** Practiced function return values.
+
+**Thoughts:** This will require more practice.
