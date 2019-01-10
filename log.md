@@ -57,3 +57,9 @@
 **Today's Progress:** Practiced writing String operations: length, isEmpty, startsWith, etc.
 
 **Thoughts:** Easier than yesterday.
+
+### Day 10: January 10, 2019
+
+**Today's Progress:** Continued practicing String operations.
+
+**Thoughts:** Keep practicing. Practice makes perfect.
