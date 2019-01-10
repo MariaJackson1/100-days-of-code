@@ -51,3 +51,9 @@
 **Today's Progress:** Practiced function return values.
 
 **Thoughts:** This will require more practice.
+
+### Day 9: January 9, 2019
+
+**Today's Progress:** Practiced writing String operations: length, isEmpty, startsWith, etc.
+
+**Thoughts:** Easier than yesterday.
