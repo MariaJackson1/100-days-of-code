@@ -63,3 +63,9 @@
 **Today's Progress:** Continued practicing String operations.
 
 **Thoughts:** Keep practicing. Practice makes perfect.
+
+### Day 11: January 11, 2019
+
+**Today's Progress** Worked on modifying Strings and learning about Lists.
+
+**Thoughts:** You can do some pretty useful things with Strings.
