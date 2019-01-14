@@ -69,3 +69,9 @@
 **Today's Progress** Worked on modifying Strings and learning about Lists.
 
 **Thoughts:** You can do some pretty useful things with Strings.
+
+### Day 12: January 13, 2019
+
+**Today's Progress:** Learned about Lists
+
+**Thoughts:** Why did I decide to do this challenge?
