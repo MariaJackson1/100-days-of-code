@@ -75,3 +75,9 @@
 **Today's Progress:** Learned about Lists
 
 **Thoughts:** Why did I decide to do this challenge?
+
+### Day 13: January 14, 2019
+
+**Today's Progress** Continued working on Lists.
+
+**Thought's:** Not too bad today. Seems pretty straight forward.
