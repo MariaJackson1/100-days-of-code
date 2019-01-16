@@ -87,3 +87,9 @@
 **Today's Progress:** Worked on constants and final variables.
 
 **Thoughts:** It's going to take some practice, but I think I'll be able to get it.
+
+### Day 15: January 16, 2019
+
+**Today's Progress:** Practiced writing return functions.
+
+**Thoughts:** I can do this! Just have to keep practicing.
