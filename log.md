@@ -81,3 +81,9 @@
 **Today's Progress** Continued working on Lists.
 
 **Thought's:** Not too bad today. Seems pretty straight forward.
+
+### Day 14: January 15, 2019
+
+**Today's Progress:** Worked on constants and final variables.
+
+**Thoughts:** It's going to take some practice, but I think I'll be able to get it.
