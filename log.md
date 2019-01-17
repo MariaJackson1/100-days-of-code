@@ -93,3 +93,9 @@
 **Today's Progress:** Practiced writing return functions.
 
 **Thoughts:** I can do this! Just have to keep practicing.
+
+### Day 16: January 17, 2019
+
+**Today's Progress:** Worked on Classes, Objects, and Constructors
+
+**Thoughts:** My brain is full.
