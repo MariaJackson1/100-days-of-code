@@ -99,3 +99,9 @@
 **Today's Progress:** Worked on Classes, Objects, and Constructors
 
 **Thoughts:** My brain is full.
+
+### Day 17: January 18, 2019
+
+**Today's Progress:** Continued working on Classes, Objects, and Constructors
+
+**Thoughts:** Starting to sink in.
