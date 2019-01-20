@@ -111,3 +111,9 @@
 **Today's Progress:** Worked on creating classes and inheritance.
 
 **Thoughts:** Will need to practice more tomorrow.
+
+### Day 19: January 20, 2019
+
+**Today's Progress:** Worked more on Classes and Inheritance.
+
+**Thoughts:** Pretty exciting. Just hope I can remember the important concepts. If not, I'll refer to good ol' Google.
