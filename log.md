@@ -105,3 +105,9 @@
 **Today's Progress:** Continued working on Classes, Objects, and Constructors
 
 **Thoughts:** Starting to sink in.
+
+### Day 18: January 19, 2019
+
+**Today's Progress:** Worked on creating classes and inheritance.
+
+**Thoughts:** Will need to practice more tomorrow.
