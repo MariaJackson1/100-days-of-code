@@ -117,3 +117,9 @@
 **Today's Progress:** Worked more on Classes and Inheritance.
 
 **Thoughts:** Pretty exciting. Just hope I can remember the important concepts. If not, I'll refer to good ol' Google.
+
+### Day 20: January 21, 2019
+
+**Today's Progress:** Worked on Lists and Maps. 
+
+**Thoughts:** Going to need to practice.
