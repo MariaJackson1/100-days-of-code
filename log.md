@@ -123,3 +123,9 @@
 **Today's Progress:** Worked on Lists and Maps. 
 
 **Thoughts:** Going to need to practice.
+
+### Day 21: January 22, 2019
+
+**Today's Progress:** Learned how to create and work with libraries in Dart.
+
+**Thoughts:** Pretty fun.
